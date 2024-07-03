@@ -3,21 +3,21 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Web Development
+- 🔭 &nbsp; Full Stack web developer [MERN Stack]
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; BTech Computer Engineer
 - 💼 &nbsp; MERN Stack developer which includes MongoDB , ExpressJS , React & NodeJS.
-- ✍️ &nbsp; Problem solver.
+- ✍️ &nbsp; Problem solver, Quick learner, web developer.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <br>
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | MongoDB | ExpressJS | NodeJS | React | PHP
+- 💻 &nbsp;  Java | C++  
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | MongoDB | ExpressJS | NodeJS | React 
 - 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; Visual Studio code | Eclipse | Git
 
 <br>
 
